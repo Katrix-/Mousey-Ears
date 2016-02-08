@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mouseyEars",
+  "name": "Mousey Ears",
+  "description": "A small mod to give minecraft models mouse ears.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Katrix"],
+  "credits": "Nazrin who bugged me to make this",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
